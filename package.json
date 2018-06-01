@@ -1,0 +1,22 @@
+{
+  "name": "vuepoint",
+  "version": "1.0.0",
+  "description": "> A sandbox for exploring [**VuePress**](https://vuepress.vuejs.org) - A Vue-powered Static Site Generator",
+  "scripts": {
+    "docs:dev": "vuepress dev draft",
+    "docs:build": "vuepress build draft"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dgilleland/VuePoint.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dgilleland/VuePoint/issues"
+  },
+  "homepage": "https://github.com/dgilleland/VuePoint#readme",
+  "devDependencies": {
+    "vuepress": "^0.10.0"
+  }
+}
